@@ -1,0 +1,6 @@
+/Users/mac/Projects/Rejestr/bin/Debug/Rejestr.exe
+/Users/mac/Projects/Rejestr/bin/Debug/Rejestr.pdb
+/Users/mac/Projects/Rejestr/obj/Debug/Rejestr.csprojAssemblyReference.cache
+/Users/mac/Projects/Rejestr/obj/Debug/Rejestr.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Rejestr/obj/Debug/Rejestr.exe
+/Users/mac/Projects/Rejestr/obj/Debug/Rejestr.pdb
